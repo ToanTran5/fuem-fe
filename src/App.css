@@ -1,0 +1,8 @@
+@tailwind base;
+
+@layer base {
+  body {
+    @apply font-sans antialiased;
+    @apply bg-gray-100 text-gray-900;
+  }
+}
